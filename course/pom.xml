@@ -7,10 +7,14 @@
     <groupId>contact</groupId>
     <artifactId>contact</artifactId>
     <version>1.0-SNAPSHOT</version>
+
 <packaging>pom</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
 
     <modules>
-
         <module>model</module>
     </modules>
 
@@ -27,6 +31,7 @@
             <groupId>org.mockito</groupId>
             <artifactId>mockito-all</artifactId>
             <version>1.9.5</version>
+            <scope>test</scope>
         </dependency>
 
     </dependencies>

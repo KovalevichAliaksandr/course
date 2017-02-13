@@ -1,0 +1,5 @@
+com/calc/CalculatorService.class
+com/epam/model/User.class
+com/calc/MathApplication.class
+com/calc/MathApplicationTestWithoutJUnit.class
+com/calc/Calculator.class
