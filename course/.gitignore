@@ -70,3 +70,5 @@ model/target/maven-status/
 model/target/surefire/
 model/target/test-classes/
 src/
+/model/target/
+model/target/surefire-reports/
